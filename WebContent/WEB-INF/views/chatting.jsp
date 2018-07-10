@@ -55,7 +55,7 @@
           Sign-out
         </button>
         <button hidden id="sign-in" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--white">
-          <i class="material-icons">account_circle</i>Sign-in
+          <i class="material-icons">account_circle</i>Sign-In
           </button>
            
         </div>
