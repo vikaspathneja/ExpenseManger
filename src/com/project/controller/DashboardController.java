@@ -30,7 +30,7 @@ public class DashboardController {
 //	ExpenseServiceCategoryInterface expenseservicecategoryinterfaceref;
 
 	HashMap finalgainloss(HttpSession hs){
-		System.out.println("final gain lo");
+		System.out.println("final gain lod");
 		HashMap hm=new HashMap<>();
 		hm=mapserint.finalgainloss(hs);
 		return hm;
